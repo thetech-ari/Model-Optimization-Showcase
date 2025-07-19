@@ -1,6 +1,4 @@
----
-
-##  `requirements.txt`
+##  requirements.txt
 
 ```txt
 torch
