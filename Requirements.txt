@@ -1,1 +1,10 @@
+---
 
+##  `requirements.txt`
+
+```txt
+torch
+torchvision
+matplotlib
+numpy
+jupyter
